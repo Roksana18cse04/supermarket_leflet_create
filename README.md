@@ -36,8 +36,8 @@ An AI-powered promotional flyer generator for supermarkets and grocery stores. T
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Roksana18cse04/Supermarket_promo_and_discount_Leflet_Generate.git
-   cd Supermarket_promo_and_discount_Leflet_Generate
+   git clone https://github.com/Roksana18cse04/supermarket_leflet_create.git
+   cd supermarket_leflet_create
    ```
 
 2. **Create a virtual environment**
